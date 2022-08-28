@@ -32,9 +32,11 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iuriiser&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iuriiser&theme=graywhite&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iuriiser&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div  align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=iuriiser&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=iuriiser&theme=graywhite&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iuriiser&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iuriiser&icon=2&color=12)](https://visitcount.itsvg.in)
