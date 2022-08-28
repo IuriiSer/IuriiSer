@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Iutii</h1>
 <h3 align="center">Full Stack developer from Russia</h3>
 
-# 💫 About Me:
+## Few words about Me:
 - 🔭 I’m currently learning in a boot-camp and in searching of working where can I reach my full potential<br>
 - ⚡ Fun fact, I have a collection of minerals that I have collected traveled around the Krasnodar Territory and the Republic of Crimea
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me: ##
+<p align="center">
   <a href="https://linkedin.com/in/iuriiser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuriiser" height="30" width="40" /></a> 
   <a href="https://t.me/IuriiSergeevi4" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" alt="iuriiser" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+## Languages and Tools: ##
+<p align="center"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -31,12 +30,9 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-# 📊 GitHub Stats:
-<div  align="center">
+## 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=iuriiser&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=iuriiser&theme=graywhite&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iuriiser&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iuriiser&icon=2&color=12)](https://visitcount.itsvg.in)
