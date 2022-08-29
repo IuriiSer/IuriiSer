@@ -38,8 +38,8 @@
 [![](https://visitcount.itsvg.in/api?id=iuriiser&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## Portfolio && Big projects
-[volgogradEstate](https://github.com/IuriiSer/volgogradEstate) -> make an application for housing search in 3 days with group of 4 developers<br>
-[foodConstructor](https://github.com/IuriiSer/foodConstructor) -> make an application for searching reciepts using one api for 4 days<br>
+[volgogradEstate](https://github.com/IuriiSer/volgogradEstate) -> 20.08.22 make an application for housing search in 3 days with group of 4 developers<br>
+[foodConstructor](https://github.com/IuriiSer/foodConstructor) -> 26.08.22 make an application for searching reciepts using one api for 4 days<br>
 [CodeCollection](https://github.com/IuriiSer/CodeCollection) -> just solutions for some tasks from various sources. Be carefull: old content<br>
 
 
