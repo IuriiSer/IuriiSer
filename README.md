@@ -36,3 +36,10 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iuriiser&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=iuriiser&icon=2&color=12)](https://visitcount.itsvg.in)
+
+## Portfolio && Big projects
+[volgogradEstate](https://github.com/IuriiSer/volgogradEstate) -> make an application for housing search in 3 days with group of 4 developers<br>
+[foodConstructor](https://github.com/IuriiSer/foodConstructor) -> make an application for searching reciepts using one api for 4 days<br>
+[CodeCollection](https://github.com/IuriiSer/CodeCollection) -> just solutions for some tasks from various sources. Be carefull: old content<br>
+
+
