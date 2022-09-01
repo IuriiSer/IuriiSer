@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iutii</h1>
+<h1 align="center">Hi 👋, I'm Iurii</h1>
 <h3 align="center">Full Stack developer from Russia</h3>
 
 ## Few words about Me:
