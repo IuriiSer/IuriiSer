@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack developer from Russia</h3>
 
 ## Few words about Me:
-- 🔭 I’m currently learning in a boot-camp and in searching of working where can I reach my full potential<br>
+- 🔭 I’m currently searching of working where can I reach my full potential<br>
 - ⚡ Fun fact, I have a collection of minerals that I have collected traveled around the Krasnodar Territory and the Republic of Crimea
 
 ## Connect with me: ##
